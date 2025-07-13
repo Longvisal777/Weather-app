@@ -1,5 +1,3 @@
-# Weather-app
-=======
 # Global Weather App
 
 A comprehensive desktop weather application built with Python and Tkinter. This application allows users to search for real-time weather information for cities worldwide, featuring an intuitive interface with country and city selection dropdowns, and detailed weather displays with visual icons.
@@ -56,11 +54,7 @@ python weather_app.py
 
 ### Usage
 
-1. **Navigate to the unzipped folder**.
-
-2. **Double-click** `weather_app.exe` to launch the application.
-
-3. **The application will start** with a fresh interface. The weather data will be displayed in an organized format with:
+1. **The application will start** with a fresh interface. The weather data will be displayed in an organized format with:
    - Current temperature and "feels like" temperature
    - Weather description and visual icon
    - Humidity, wind speed, and atmospheric pressure
@@ -109,4 +103,4 @@ The application uses the OpenWeatherMap API. If you're running from source code,
 - **Country/City Data**: Countries Now API
 - **Programming Language**: Python 3.x
 - **Threading**: Background API calls for responsive UI
->>>>>>> fe98454 (first commit)
+
