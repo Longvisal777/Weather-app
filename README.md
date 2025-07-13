@@ -43,14 +43,9 @@ Make sure you have Python installed on your system (Python 3.x is recommended). 
    ```bash
    pip install requests pillow
    ```
-
-### Running the Python Script
-
-After installing the prerequisites, you can run the application by executing the main Python script:
-
-```bash
-python weather_app.py
-```
+   ```bash
+   pip install requests 
+   ```
 
 ### Usage
 
